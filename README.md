@@ -4,7 +4,7 @@
 
 我们已经在 `ohpm.openharmony.cn` 上发布了多个 [鸿蒙实用的组件](https://ohpm.openharmony.cn/#/cn/result?sortedType=relevancy&page=1&q=candies)，在 `pub.dev` 上发布了 多个[Flutter 鸿蒙插件](https://pub-web.flutter-io.cn/packages?q=topic%3Aharmony-os)，不仅如此，我们还构建了很多实用工具、API、实战项目以及优质的技术文章，帮助 Harmony/Flutter 开发者们在职业生涯的不同阶段快速成长。
 
-我们希望号召和帮助更多开发者们为 `Harmony` 开发者更多实用的插件库 (小糖果)，如果你有同样的目标和理想，糖果群欢迎你的加入！
+我们希望号召和帮助更多开发者们为 `Harmony` 开发更多实用的插件库 (小糖果)，如果你有同样的目标和理想，糖果群欢迎你的加入！
 
 关注 `糖果代码铺` ，获取更多 `鸿蒙/Flutter` 开发资讯。
 
